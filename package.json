@@ -1,5 +1,5 @@
 {
-  "name": "base-repo",
+  "name": "packing-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,8 +14,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
     "css-loader": "^4.3.0",
     "express": "^4.17.1",
+    "mongoose": "^5.10.9",
     "morgan": "^1.10.0",
     "path": "^0.12.7",
     "react": "^16.13.1",
